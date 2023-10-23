@@ -1,0 +1,32 @@
+.reactQuillCustom {
+    /* margin: 1rem 4rem; */
+}
+
+.reactQuillCustom .ql-container {
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    background: #fefcfc;
+}
+
+/* Snow Theme */
+.reactQuillCustom .ql-snow.ql-toolbar {
+    display: block;
+    background: #eaecec;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+}
+
+/* Bubble Theme */
+.reactQuillCustom .ql-bubble .ql-editor {
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+}
+
+.reactQuillCustom .ql-editor {
+    min-height: 18em;
+}
+
+.themeSwitcher {
+    margin-top: 0.5em;
+    font-size: small;
+}
